@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewpor" content="width=device-width,initial-scale=1.0">
+<title>ex02</title>
+<title>Document</title>
+</head>
+<body>
+     <input type="text" id="txta">
+     <input type="text" id="txtb">
+     <button onclick="tinhtong();">
+            Tinh tong
+     </button>
+</body>
+<script>
+     function tinhtong(){
+          var a = document.getElementById("txta").value;
+          var b = document.getElementById("txtb").value; 
+          var tong = parseInt(a) + parseInt(b); 
+          document.getElementById('txta').value = ''; 
+          alert(tong);
+     }
+</script>
+</html>
