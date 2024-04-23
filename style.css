@@ -1,0 +1,221 @@
+
+
+/* Line 1 */
+#hr1 {
+position: absolute;
+width: 1345px;
+height: 0px;
+left: 54px;
+top: 101px;
+
+border: 1px solid #000000;
+transform: rotate(0.13deg);
+}
+
+
+.container{
+    /* thanh lựa chọn */
+    position: absolute;
+    width: 1440px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+
+
+}
+li{
+    /* TEAM8 */
+
+    position: absolute;
+    width: 176px;
+    height: 48px;
+    left: calc(50% - 176px/2 - 486px);
+    top: calc(50% - 48px/2 + 14.5px);
+
+    list-style: none;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #000000;
+
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+}
+#logo img {
+    /* logoo 1 */
+
+    position: absolute;
+    width: 91px;
+    height: 59px;
+    left: 51px;
+    top: 33px;
+    background: url(https://i.pinimg.com/736x/86/ed/44/86ed44b1c935b65ab2a7d1ff5bc63c41.jpg);
+
+}
+
+
+#main-menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-weight: bolder
+}
+
+ul {
+    list-style-type: none;
+}
+
+#l1 > a {
+
+    position: absolute;
+    width: 130px;
+    height: 73px;
+    left: 686px;
+    top: 3px;
+
+list-style: none;
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+}
+
+#l2 > a {
+/* Lập ngân sách */
+
+position: absolute;
+    width: 130px;
+    height: 72px;
+    left: 803px;
+    top: 3px;
+list-style: none;
+text-decoration: none;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+
+#l3 > a {
+    /* Mục tiêu tài chính */
+
+position: absolute;
+width: 100px;
+    height: 71px;
+    left: 945px;
+    top: 3px;
+list-style: none;
+text-decoration: none;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+    
+#l4 > a {
+/* Báo cáo tài chính */
+
+position: absolute;
+width: 100px;
+    height: 70px;
+    left: 1056px;
+    top: 3px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+#l5 > a {
+    /* Thiết lập mục tiêu tài chính */
+
+    position: absolute;
+    text-align: center;
+    width: 196px;
+    height: 67px;
+    left: 553px;
+    top: 839px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 37px;
+
+    text-decoration: none;
+    color: #000000;
+}
+
+#l6 > a {
+    /* Thiết lập mục tiêu tài chính */
+    position: absolute;
+    width: 256px;
+    height: 60px;
+    left: 777px;
+    top: 842px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 37px;
+    text-decoration: none;
+    text-align: center;
+
+    color: #000000;
+}
+
+#l7 > a {
+    /* Báo cáo tài chính */
+
+    position: absolute;
+    width: 192px;
+    height: 60px;
+    left: 1066px;
+    top: 840px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 37px;
+    text-align: center;
+    
+
+    color: #000000;
+
+
+}
+.circle img {
+    position: absolute;
+    width: 58px;
+    height: 54px;
+    left: 1312px;
+    top: 47px;
+
+    background: #D9D9D9;
+
+}
